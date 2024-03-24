@@ -1,0 +1,17 @@
+export const ImportResponses = {
+    IMPORT_SUCCESS: 'Import successful',
+    IMPORT_FAILED: 'Import failed',
+    IMPORT_ERROR: 'Import error',
+    IMPORT_PROCESSING: 'File import processing',
+    IMPORT_NOT_FOUND: 'File Import not found',
+    IMPORT_INVALID: 'Invalid import',
+    IMPORT_EXISTS: 'Import already exists',
+    IMPORT_DELETED: 'Import deleted',
+    IMPORT_UPDATED: 'Import updated',
+    IMPORT_NOT_UPDATED: 'Import not updated',
+    IMPORT_NOT_DELETED: 'Import not deleted',
+    IMPORT_NOT_COMPLETED: 'Import not completed',
+    IMPORT_NOT_FAILED: 'Import not failed',
+    IMPORT_NOT_PROCESSED: 'Import not processed',
+    IMPORT_NOT_VALID: 'Import not valid',
+}

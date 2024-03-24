@@ -1,0 +1,6 @@
+transactionID,transactionDirection,transactionType,transactionAmount,transactionDescription,transactionDate,transactionCurrency,transactionRecipient
+dsnjancao,DEBIT,BANK_TRANSFER,5000,Bank transfer to oluwaferanmi food,23:00-12/03/2024,NGN,oluwaferanmi eatery
+sdjncz43,DEBIT,DATA,1500,Data subscription for mobile,18:45-12/03/2024,NGN,08012345678
+lk2j3nfa,CREDIT,ELECTRICITY,7000,Electricity bill payment,09:30-12/03/2024,NGN,08023456789
+kldfm294,DEBIT,AIRTIME,1000,Airtime recharge for phone,12:15-12/03/2024,NGN,08034567890
+pqow39ml,CREDIT,BANK_TRANSFER,8000,Received bank transfer from client,15:20-12/03/2024,NGN,John Doe

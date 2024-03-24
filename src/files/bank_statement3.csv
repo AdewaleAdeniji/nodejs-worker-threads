@@ -1,0 +1,40 @@
+transactionID,transactionDirection,transactionType,transactionAmount,transactionDescription,transactionDate,transactionCurrency,transactionRecipient
+dsnjancao,DEBIT,BANK_TRANSFER,5000,Bank transfer to oluwaferanmi food,23:00-12/03/2024,NGN,oluwaferanmi eatery
+sdjncz43,DEBIT,DATA,1500,Data subscription for mobile,18:45-12/03/2024,NGN,08012345678
+lk2j3nfa,CREDIT,ELECTRICITY,7000,Electricity bill payment,09:30-12/03/2024,NGN,08023456789
+kldfm294,DEBIT,AIRTIME,1000,Airtime recharge for phone,12:15-12/03/2024,NGN,08034567890
+pqow39ml,CREDIT,BANK_TRANSFER,8000,Received bank transfer from client,15:20-12/03/2024,NGN,John Doe
+aldfm2po,DEBIT,BANK_TRANSFER,2000,Bank transfer to utility provider,11:10-12/03/2024,NGN,Utility Services Ltd
+a89ksdnv,CREDIT,DATA,2500,Received data subscription refund,14:00-12/03/2024,NGN,08045678901
+kfnm29po,DEBIT,AIRTIME,500,Airtime recharge for family member,20:05-12/03/2024,NGN,08056789012
+qkw92jdm,CREDIT,BANK_TRANSFER,10000,Received payment from employer,16:30-12/03/2024,NGN,XYZ Company
+knd239fm,DEBIT,ELECTRICITY,3500,Electricity bill payment,10:55-12/03/2024,NGN,4567890123
+dsnjancao,DEBIT,BANK_TRANSFER,5000,Bank transfer to oluwaferanmi food,23:00-12/03/2024,NGN,oluwaferanmi eatery
+sdjncz43,DEBIT,DATA,1500,Data subscription for mobile,18:45-12/03/2024,NGN,08012345678
+lk2j3nfa,CREDIT,ELECTRICITY,7000,Electricity bill payment,09:30-12/03/2024,NGN,08023456789
+kldfm294,DEBIT,AIRTIME,1000,Airtime recharge for phone,12:15-12/03/2024,NGN,08034567890
+pqow39ml,CREDIT,BANK_TRANSFER,8000,Received bank transfer from client,15:20-12/03/2024,NGN,John Doe
+aldfm2po,DEBIT,BANK_TRANSFER,2000,Bank transfer to utility provider,11:10-12/03/2024,NGN,Utility Services Ltd
+a89ksdnv,CREDIT,DATA,2500,Received data subscription refund,14:00-12/03/2024,NGN,08045678901
+kfnm29po,DEBIT,AIRTIME,500,Airtime recharge for family member,20:05-12/03/2024,NGN,08056789012
+qkw92jdm,CREDIT,BANK_TRANSFER,10000,Received payment from employer,16:30-12/03/2024,NGN,XYZ Company
+knd239fm,DEBIT,ELECTRICITY,3500,Electricity bill payment,10:55-12/03/2024,NGN,4567890123
+dsnjancao,DEBIT,BANK_TRANSFER,5500,Bank transfer to supplier,14:20-12/03/2024,NGN,Supplier Corp
+sdjncz43,CREDIT,DATA,1200,Refund for unused data subscription,19:10-12/03/2024,NGN,08067890123
+lk2j3nfa,DEBIT,ELECTRICITY,6000,Electricity bill payment,08:45-12/03/2024,NGN,8901234567
+kldfm294,CREDIT,AIRTIME,200,Airtime bonus received,13:25-12/03/2024,NGN,08078901234
+pqow39ml,DEBIT,BANK_TRANSFER,4000,Bank transfer to friend,17:55-12/03/2024,NGN,Friend's Name
+aldfm2po,CREDIT,BANK_TRANSFER,7500,Received bank transfer from client,10:30-12/03/2024,NGN,Client Inc.
+a89ksdnv,DEBIT,DATA,1800,Data subscription for work,16:40-12/03/2024,NGN,08089012345
+kfnm29po,CREDIT,AIRTIME,1500,Received airtime transfer,21:15-12/03/2024,NGN,08090123456
+qkw92jdm,DEBIT,BANK_TRANSFER,3000,Bank transfer to landlord,12:05-12/03/2024,NGN,Landlord Estates
+knd239fm,CREDIT,ELECTRICITY,8500,Refund for overcharged electricity bill,09:50-12/03/2024,NGN,1234567890
+dsnjancao,DEBIT,AIRTIME,800,Airtime recharge for personal use,14:35-12/03/2024,NGN,08098765432
+sdjncz43,CREDIT,BANK_TRANSFER,9500,Received payment from client,18:25-12/03/2024,NGN,Client Ltd.
+lk2j3nfa,DEBIT,BANK_TRANSFER,6200,Bank transfer to charity,07:20-12/03/2024,NGN,Charity Foundation
+kldfm294,DEBIT,DATA,2000,Data subscription for home,11:45-12/03/2024,NGN,08087654321
+pqow39ml,CREDIT,ELECTRICITY,5500,Electricity bill payment,15:30-12/03/2024,NGN,3456789012
+aldfm2po,DEBIT,AIRTIME,300,Airtime recharge for emergency,09:15-12/03/2024,NGN,08076543210
+a89ksdnv,CREDIT,BANK_TRANSFER,12000,Received bank transfer from friend,13:50-12/03/2024,NGN,Friend's Name
+kfnm29po,DEBIT,ELECTRICITY,4000,Electricity bill payment,19:05-12/03/2024,NGN,2345678901
+qkw92jdm,CREDIT,AIRTIME,700,Airtime bonus received,08:40-12/03/2024,NGN,08065432109
